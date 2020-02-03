@@ -5,7 +5,7 @@ Diplomarbeit
 
 Meine kleine Diplom-Arbeit ist i.R. der AG Geosystem-Modellierung am Lehrstuhl von Prof. Dr. Klaus D. Aurada an der Universität Greifswald entstanden.
 
-* Iredi, E. (2005): Rekonstruktion des typischen Zeitreihenverlaufs monatlicher Abflüsse für talsperrenbeeinflusste Messstationen in Zentraleuropa - Verifizierung mit Hilfe eines global verfügbaren Datensatzes, Diplomarbeit, Greifswald [pdf-file](files/Diplomarbeit_Iredi(2005).pdf) [signature](files/Diplomarbeit_Iredi(2005).pdf.sig) [public-key](files/OpenPGP_public_key.asc)
+* Iredi, E. (2005): Rekonstruktion des typischen Zeitreihenverlaufs monatlicher Abflüsse für talsperrenbeeinflusste Messstationen in Zentraleuropa - Verifizierung mit Hilfe eines global verfügbaren Datensatzes, Diplomarbeit, Greifswald [pdf-file](files/Diplomarbeit_Iredi(2005).pdf)      [signature](files/Diplomarbeit_Iredi(2005).pdf.sig)     [public-key](files/OpenPGP_public_key.asc)
 
 * Iredi, E. (2005): Reconstruction of natural river-flow regimes for dam-affected gauging stations in Central Europe – Verification with the aid of globally available data, in: Hydrologie u. Wasserbewirtschaftung, 50. Jg., H. 2, S. 80-85, Koblenz
 
