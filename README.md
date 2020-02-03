@@ -13,6 +13,6 @@ Diese Arbeit baut auf den wissenschaftlichen Arbeiten von Dr. Raimund Rödel  un
 
 * Hoffmann, T. (2005): Entwicklung eines Geoinformationssystems zur Abflußzeitreihenanalyse und -modellierung in globalen, hydrologischen Netzwerken, Dissertation, Greifswald
 
-* Hoffmann, T. & RÖDEL, R. (2004): Leitfaden für die statistische Auswertung geographischer Daten = Greifswalder Geographische Arbeiten, Bd. 33, Greifswald [OPAC](https://lhgrw.gbv.de/DB=1/SET=2/TTL=1/SHW?FRST=2)
+* Hoffmann, T. & RÖDEL, R. (2004): Leitfaden für die statistische Auswertung geographischer Daten = Greifswalder Geographische Arbeiten, Bd. 33, Greifswald
 
-* RÖDEL, R. (2001): Die Auswirkungen des historischen Talsperrenbaus auf die Zuflussverhältnisse der Ostsee = Greifswalder Geographische Arbeiten, Bd. 18, Greifswald [OPAC](https://lhgrw.gbv.de/DB=1/SET=2/TTL=1/SHW?FRST=3)
+* RÖDEL, R. (2001): Die Auswirkungen des historischen Talsperrenbaus auf die Zuflussverhältnisse der Ostsee = Greifswalder Geographische Arbeiten, Bd. 18, Greifswald
